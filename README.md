@@ -14,21 +14,21 @@ Retail promotional data is often fragmented and lacks consolidated analysis acro
 
 ## 📈 Dashboards & Features
 #### Navigation
-Store Performance Analysis 
-Promotion Type Analysis
-Product & Category Analysis
+- Store Performance Analysis 
+- Promotion Type Analysis
+- Product & Category Analysis
 #### Key Visualizations & Analysis
-Revenue and Sold Quantity before and after promotions.
-Promotion effectiveness measured by Incremental Revenue (IR) and Incremental Sold Units (ISU).
-Comparison of top performing and least effective promotion types.
-Analysis of revenue efficiency across cashback, discount, and BOGOF offers.
-Store-wise sales and promotional impacts with city-wise performance trends.
-Category-wise sales and promotion correlations highlighting high and low performing segments.
+- Revenue and Sold Quantity before and after promotions.
+- Promotion effectiveness measured by Incremental Revenue (IR) and Incremental Sold Units (ISU).
+- Comparison of top performing and least effective promotion types.
+- Analysis of revenue efficiency across cashback, discount, and BOGOF offers.
+- Store-wise sales and promotional impacts with city-wise performance trends.
+- Category-wise sales and promotion correlations highlighting high and low performing segments.
 #### Interactive Filters
-Store ID
-City
-Campaign Name
-Promotion Type
+- Store ID
+- City
+- Campaign Name
+- Promotion Type
 
 ## 💻 Tech Stack
 - PowerBI Desktop: Interactive visual dashboards and data modeling
