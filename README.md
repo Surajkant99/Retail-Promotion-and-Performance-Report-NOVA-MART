@@ -44,7 +44,7 @@ Retail promotional data is often fragmented and lacks consolidated analysis acro
 
 ## 🔗 Important links
 - [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWMwMjgwNTQtNjA2ZC00MWM5LTllMDctMzgxYWI0MTY0YzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [Linkedin Post]()
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7366778360657604608/)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
